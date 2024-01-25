@@ -1,0 +1,6 @@
+@ZATO_HostAddress = http://localhost:5185
+
+GET {{ZATO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
